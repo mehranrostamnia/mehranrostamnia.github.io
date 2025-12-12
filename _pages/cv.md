@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2020-2022: High school information and communication technology teacher
-  * Iran
+  * Ministry of Education, Iran
 
 * Fall 2017: Teaching Assistant
   * Shahid Rajaee Teacher Training University (SRTTU)
