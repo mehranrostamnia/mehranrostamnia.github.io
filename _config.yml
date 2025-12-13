@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mehran Rostamnia / Site Title"
+title                    : "Mehran Rostamnia "
 title_separator          : "-"
 name                     : &name "Mehran Rostamnia"
 description              : &description "PhD Candidate at Gran Sasso Science Institute (GSSI)"   # Update this with a general description of your site, this is the default if not overridden by a page
