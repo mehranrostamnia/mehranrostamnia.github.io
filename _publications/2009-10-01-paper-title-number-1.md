@@ -1,7 +1,7 @@
 ---
 title: "Vertex cover preprocessing for influence maximization algorithms"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2019-02-28-paper-title-number-1
 excerpt: 'In this paper, the effect of performing vertex cover, as a preprocess, has been investigated on the influence maximization algorithms under the independent cascade model. Proposed method eliminates ineffective nodes from the main calculation process to find the most influential nodes. Based on the results, combining the proposed algorithm with several methods on real-world datasets confirms the efficiency of the method.'
 date: 2019-02-28
