@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "**Mehran** Rostamnia <br> PhD Candidate in Robotics Software Engineering <br>
-Gran Sasso Science Institute, Italy."
+title: "<span style="font-family: Georgia;">**Mehran** Rostamnia</span>
+<span style="font-family: 'Times New Roman';"> <br> PhD Candidate in Robotics Software Engineering <br>
+Gran Sasso Science Institute, Italy.</span> "
 author_profile: true
 redirect_from: 
   - /about/
