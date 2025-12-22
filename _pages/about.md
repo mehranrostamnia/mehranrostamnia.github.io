@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: |
-  <span style='font-family: Georgia;'><strong>Mehran</strong> Rostamnia</span><br>
+  <span style='font-family: Arial;'><strong>Mehran</strong> Rostamnia</span><br>
   <span style='font-family: "Times New Roman";'>
     PhD Candidate in Robotics Software Engineering<br>
     Gran Sasso Science Institute, Italy.
