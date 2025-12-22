@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: "**Mehran** Rostamnia \br PhD Candidate in Robotics Software Engineering \br
+Gran Sasso Science Institute, Italy."
 author_profile: true
 redirect_from: 
   - /about/
