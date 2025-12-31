@@ -24,7 +24,7 @@ I'm fortunate to be working on Digital Twins in Space Robotics research at Gran 
 <li>Autonomous Systems</li>
 <li>Social Network Analysis</li>
 </ul>
-**Selected publications:**</br>
+
 
 
 
