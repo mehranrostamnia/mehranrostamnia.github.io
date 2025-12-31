@@ -18,10 +18,13 @@ I'm fortunate to be working on Digital Twins in Space Robotics research at Gran 
 
 
 **Research Interests:**
-Social Network Analysis
-Digital Twins
-Robotics
-Autonomous Systems
+<ul>
+<li>Robotics</li>
+<li>Digital Twins</li>
+<li>Autonomous Systems</li>
+<li>Social Network Analysis</li>
+</ul>
+**Selected publications:**</br>
 
 
 
