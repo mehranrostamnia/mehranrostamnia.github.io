@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D in Computer Science, Gran Sasso Science Institute (GSSI), 2027 (expected)
 * M.S. in Computer Science, Shahid Rajaee Teacher Training University (SRTTU), 2019
-* B.S. in Computer Science, Tabriz University, 2015
 
 Work experience
 ======
@@ -39,18 +38,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+**Other Events**
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+<li>SPACERAISE summer school, L'Aquila, Italy, 2026</li>
+<li>RSE 2025 (Robotics Software Engineering), University of Southern Denmark, Denmark, 2025</li>
+<li>IEEE RAS Summer School on Multi-Robot Systems, CTU Prague, Czech Republic, 2025</li>
+<li>ACM SIGSOFT Summer School for Software Engineering in Robotics, TU Delft, Netherland, 2025</li>
+<li>SPACERAISE summer school, L'Aquila, Italy, 2025</li>
+<li>Summer School on Software Engineering for Digital Society, Italy, 2024</li>
+</ul>
