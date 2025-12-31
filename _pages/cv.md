@@ -27,7 +27,7 @@ Work experience
 ======
 <ul>
 <li>SPACERAISE summer school, L'Aquila, Italy, 2026</li>
-<li>RSE 2025 (Robotics Software Engineering), University of Southern Denmark, Denmark, 2025</li>
+<li>RSE'25 (Robotics Software Engineering), University of Southern Denmark, Denmark, 2025</li>
 <li>IEEE RAS Summer School on Multi-Robot Systems, CTU Prague, Czech Republic, 2025</li>
 <li>ACM SIGSOFT Summer School for Software Engineering in Robotics, TU Delft, Netherland, 2025</li>
 <li>SPACERAISE summer school, L'Aquila, Italy, 2025</li>
