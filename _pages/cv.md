@@ -23,14 +23,7 @@ Work experience
   * Shahid Rajaee Teacher Training University (SRTTU)
   
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-**Other Events**
+**Events**
 ======
 <ul>
 <li>SPACERAISE summer school, L'Aquila, Italy, 2026</li>
@@ -40,3 +33,9 @@ Publications
 <li>SPACERAISE summer school, L'Aquila, Italy, 2025</li>
 <li>Summer School on Software Engineering for Digital Society, Italy, 2024</li>
 </ul>
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
