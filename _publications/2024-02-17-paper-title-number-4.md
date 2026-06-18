@@ -1,10 +1,10 @@
 ---
 title: "Digital Twin models for space robotics: objectives, applications,
-and challenges[UNDER REVIEW]"
+and challenges"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-02-17-paper-title-number-4
-excerpt: 'This paper surveys the state of the art on DT for space robotics, focusing on the objectives of DTs, the applications across a system lifecycle, and the associated challenges. Finally, we highlight the benefits DTs bring to the space domain.'
+excerpt: 'In this paper, we examine the current state of Digital Twin technology in the domain of space robotics, with a focus on its objectives, application areas across the system lifecycle, principal challenges, and directions for future research. The results indicate that Digital Twins are predominantly employed to enhance assembly, behavior modeling, monitoring, and maintenance activities within specific phases of the lifecycle, yielding benefits such as increased operational efficiency, improved quality, and more informed decision-making. Nonetheless, significant obstacles persist, particularly with respect to end‑to‑end lifecycle integration, robust data synchronization, and interoperability. Furthermore, aspects related to human–robot collaboration remain largely underexplored. This study contributes to a more comprehensive understanding of how Digital Twin technologies can improve the reliability, autonomy, and efficiency of robotic systems deployed for space exploration.'
 date: 2026-02-17
 venue: 'Array Journal'
 paperurl: ''
