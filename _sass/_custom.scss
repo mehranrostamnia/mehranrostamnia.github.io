@@ -1,9 +1,27 @@
-/* FORCE avatar size */
+/* ===========================
+   Larger profile image
+   =========================== */
 .author__avatar img {
   width: 260px !important;
-  max-width: 320px !important;
+  max-width: 260px !important;
   height: auto !important;
 }
-.sidebar {
-  width: 320px !important;
+
+/* ===========================
+   Wider left sidebar
+   =========================== */
+.page__aside,
+.page__sidebar {
+  width: 22rem !important;
+}
+
+/* ===========================
+   Main content
+   =========================== */
+.page {
+  max-width: 1400px !important;
+}
+
+.page__content {
+  width: calc(100% - 24rem) !important;
 }
